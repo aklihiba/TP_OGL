@@ -4,7 +4,22 @@
     <bookmark url="file://$PROJECT_DIR$/src/TestWiki.java" description="&#10;import static org.junit.Assert.*;&#10;&#10;import java.ut..." line="45" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d57bf7a1-2d1d-4dd4-9194-00516f98c645" name="Default Changelist" comment="" />
+    <list default="true" id="d57bf7a1-2d1d-4dd4-9194-00516f98c645" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../TD_creation/src/FileTrace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD_creation/src/FileTraceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD_creation/src/SystemTrace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD_creation/src/SystemTraceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD_creation/src/TestTrace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD_creation/src/Trace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD_creation/src/TraceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PaymentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShopPAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestEbay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +31,7 @@
     <option name="myElementSize" value="209" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -33,11 +47,83 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestWiki.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="714">
+              <caret line="47" column="6" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PageObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BookPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PaymentPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="23" column="351" selection-start-line="23" selection-start-column="351" selection-end-line="23" selection-end-column="351" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TestEbay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2240">
+              <caret line="120" column="1" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ShopPAge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SearchResultPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,13 +148,19 @@
       <list>
         <option value="$PROJECT_DIR$/src/TestAmazon.java" />
         <option value="$PROJECT_DIR$/src/TestWiki.java" />
+        <option value="$PROJECT_DIR$/src/PageObject.java" />
+        <option value="$PROJECT_DIR$/src/BookPage.java" />
+        <option value="$PROJECT_DIR$/src/SearchResultPage.java" />
+        <option value="$PROJECT_DIR$/src/TestEbay.java" />
+        <option value="$PROJECT_DIR$/src/ShopPAge.java" />
+        <option value="$PROJECT_DIR$/src/PaymentPage.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -77,6 +169,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,7 +186,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -101,7 +193,8 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../PDC/TP/tp poo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -118,12 +211,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestWiki.test">
-    <configuration name="TestAmazon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestEbay.test">
+    <configuration name="TestEbay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TP2_UI_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestAmazon" />
+      <option name="MAIN_CLASS_NAME" value="TestEbay" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEbay.POMtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP2_UI_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestEbay" />
+      <option name="METHOD_NAME" value="POMtest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEbay.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP2_UI_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestEbay" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -149,9 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestEbay.test" />
+        <item itemvalue="JUnit.TestEbay.POMtest" />
+        <item itemvalue="JUnit.TestEbay" />
         <item itemvalue="JUnit.TestWiki.test" />
         <item itemvalue="JUnit.TestWiki" />
-        <item itemvalue="JUnit.TestAmazon" />
       </list>
     </recent_temporary>
   </component>
@@ -169,58 +284,69 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestWiki_test - 2021.11.03 at 11h 05m 01s.xml">
-      <configuration name="TestWiki.test" configurationId="JUnit" />
+    <history-entry file="TestEbay_POMtest - 2021.11.10 at 11h 09m 21s.xml">
+      <configuration name="TestEbay.POMtest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestWiki_test - 2021.11.03 at 11h 05m 40s.xml">
-      <configuration name="TestWiki.test" configurationId="JUnit" />
+    <history-entry file="TestEbay_POMtest - 2021.11.10 at 11h 10m 18s.xml">
+      <configuration name="TestEbay.POMtest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestWiki_test - 2021.11.03 at 11h 06m 21s.xml">
-      <configuration name="TestWiki.test" configurationId="JUnit" />
+    <history-entry file="TestEbay - 2021.11.10 at 11h 10m 59s.xml">
+      <configuration name="TestEbay" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestWiki_test - 2021.11.03 at 11h 06m 36s.xml">
-      <configuration name="TestWiki.test" configurationId="JUnit" />
+    <history-entry file="TestEbay_POMtest - 2021.11.10 at 11h 12m 19s.xml">
+      <configuration name="TestEbay.POMtest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestWiki_test - 2021.11.03 at 11h 06m 57s.xml">
-      <configuration name="TestWiki.test" configurationId="JUnit" />
+    <history-entry file="TestEbay_POMtest - 2021.11.10 at 11h 13m 49s.xml">
+      <configuration name="TestEbay.POMtest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestWiki_test - 2021.11.03 at 11h 07m 11s.xml">
-      <configuration name="TestWiki.test" configurationId="JUnit" />
+    <history-entry file="TestEbay_POMtest - 2021.11.10 at 11h 16m 22s.xml">
+      <configuration name="TestEbay.POMtest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestWiki_test - 2021.11.03 at 11h 10m 06s.xml">
-      <configuration name="TestWiki.test" configurationId="JUnit" />
+    <history-entry file="TestEbay_POMtest - 2021.11.10 at 11h 16m 47s.xml">
+      <configuration name="TestEbay.POMtest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestWiki_test - 2021.11.03 at 11h 11m 16s.xml">
-      <configuration name="TestWiki.test" configurationId="JUnit" />
+    <history-entry file="TestEbay_POMtest - 2021.11.10 at 11h 17m 53s.xml">
+      <configuration name="TestEbay.POMtest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestWiki_test - 2021.11.03 at 11h 12m 03s.xml">
-      <configuration name="TestWiki.test" configurationId="JUnit" />
+    <history-entry file="TestEbay_POMtest - 2021.11.10 at 11h 20m 47s.xml">
+      <configuration name="TestEbay.POMtest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestWiki_test - 2021.11.03 at 11h 13m 57s.xml">
-      <configuration name="TestWiki.test" configurationId="JUnit" />
+    <history-entry file="TestEbay_test - 2021.11.10 at 11h 22m 40s.xml">
+      <configuration name="TestEbay.test" configurationId="JUnit" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="782" height="831" extended-state="1" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13422818" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="simpleUML" order="7" weight="0.32911393" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32577905" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30878186" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295129" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295129" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295129" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32719547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -230,6 +356,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3295302" />
+      <window_info anchor="right" id="UML Generator" order="9" />
     </layout>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
@@ -238,6 +365,20 @@
   <component name="editorHistoryManager">
     <entry file="jar://$PROJECT_DIR$/lib/client-combined-3.14.0.jar!/org/openqa/selenium/remote/ErrorHandler.class">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="289" column="36" selection-start-line="289" selection-start-column="36" selection-end-line="289" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/client-combined-3.14.0.jar!/org/openqa/selenium/support/ui/FluentWait.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestAmazon.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -251,8 +392,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestWiki.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="714">
+          <caret line="47" column="6" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BookPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ShopPAge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SearchResultPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PaymentPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="351" selection-start-line="23" selection-start-column="351" selection-end-line="23" selection-end-column="351" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestEbay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2240">
+          <caret line="120" column="1" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -331,5 +532,55 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
   </component>
 </project>
