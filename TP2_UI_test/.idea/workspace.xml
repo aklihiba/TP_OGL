@@ -5,23 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d57bf7a1-2d1d-4dd4-9194-00516f98c645" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../TD_creation/src/FileTrace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TD_creation/src/FileTraceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TD_creation/src/SystemTrace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TD_creation/src/SystemTraceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TD_creation/src/TestTrace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TD_creation/src/Trace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TD_creation/src/TraceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PageObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PaymentPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchResultPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShopPAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestEbay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP3_exo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP3_exo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP3_exo2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP3_exo2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP3_exo2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/features/exo1.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/features/exo2.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo1/com/example/test/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo1/com/example/test/Test_exo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/BookPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/PageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/PaymentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/SearchResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/ShopPAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/TestAmazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/TestEbay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/TestWiki.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TP1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_BDD/features/test.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_BDD/src/ReportGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_BDD/src/Test.java" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,106 +38,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TestAmazon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TestWiki.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="47" column="6" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PageObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BookPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PaymentPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="23" column="351" selection-start-line="23" selection-start-column="351" selection-end-line="23" selection-end-column="351" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TestEbay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2240">
-              <caret line="120" column="1" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ShopPAge.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SearchResultPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -162,6 +68,7 @@
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectId" id="21MQ1YnKPvUsSo7LnxCMhuCYHOr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -188,28 +95,20 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../PDC/TP/tp poo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="JUnit.TestEbay.test">
     <configuration name="TestEbay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -270,6 +169,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -366,7 +266,7 @@
     <entry file="jar://$PROJECT_DIR$/lib/client-combined-3.14.0.jar!/org/openqa/selenium/remote/ErrorHandler.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/util/Optional.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk1.8.0_202/src.zip!/java/util/Optional.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="289" column="36" selection-start-line="289" selection-start-column="36" selection-end-line="289" selection-end-column="36" />

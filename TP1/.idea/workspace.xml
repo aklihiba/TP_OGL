@@ -1,9 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0352642a-ec31-4e3c-8c42-3ec20afe1975" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="0352642a-ec31-4e3c-8c42-3ec20afe1975" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../TP2_UI_test/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP_SonarQube/lib/h2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP_SonarQube/lib/mysql-connector-java-5.1.45-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP_SonarQube/sonar-project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP_SonarQube/src/com/example/main/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP_SonarQube/src/com/example/model/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP_SonarQube/src/com/example/service/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP_SonarQube/src/com/example/service/DatabaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP_SonarQube/src/com/test/Citytest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP_SonarQube/src/com/test/DatabaseServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/features/exo1.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/features/exo2.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/lib/byte-buddy-1.8.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/lib/client-combined-3.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/lib/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/lib/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/lib/guava-25.0-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/lib/httpclient-4.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/lib/httpcore-4.4.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/lib/okhttp-3.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/lib/okio-1.14.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo1/com/example/test/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo1/com/example/test/Test_exo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/BookPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/PageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/PaymentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/SearchResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/ShopPAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/TestAmazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/TestEbay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/TestExo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_BDD/src/exo2/src/TestWiki.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2_UI_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TP2_UI_test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_BDD/features/test.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_BDD/src/ReportGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_BDD/src/Test.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,55 +53,15 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/model/Matrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/service/MatrixMathematics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/test/MatrixMathematicsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/exception/NoSquareException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -86,6 +83,8 @@
     <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
+  <component name="ProjectId" id="21M9mtEbQgq4Owe7PctBmIlSSrL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -138,6 +137,10 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -157,18 +160,6 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="JUnit.MatrixMathematicsTest">
     <configuration name="MatrixMathematicsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -233,6 +224,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
