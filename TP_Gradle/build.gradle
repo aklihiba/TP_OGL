@@ -1,0 +1,95 @@
+buildscript {
+
+    repositories {
+        maven {
+            url "https://jitpack.io"
+        }
+    }
+
+    dependencies {
+
+        classpath 'com.github.Mindera:gradle-slack-plugin:1.0.7'
+    }
+}
+
+plugins {
+    id 'java'
+    id 'com.github.spacialcircumstances.gradle-cucumber-reporting' version "0.1.24"
+    id 'jacoco'
+    id 'org.sonarqube' version '3.3'
+    id 'maven-publish'
+    id "com.alexleventer.slack" version "1.0.3"
+}
+
+group 'com.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'io.cucumber:cucumber-java:6.0.0'
+    testImplementation 'io.cucumber:cucumber-junit:6.0.0'
+    testImplementation'junit:junit:4.12'
+    testRuntimeOnly("org.junit.vintage:junit-vintage-engine:5.8.2")
+}
+
+
+publishing {
+    repositories {
+        maven {
+            url 'https://mymavenrepo.com/repo/Y8UPb9BCmAWkWR6aTG4D/'
+            credentials {
+                username 'myMavenRepo'
+                password '12345'
+            }
+
+        }
+    }
+
+    publications {
+        maven(MavenPublication) {
+            from components.java
+        }
+
+    }
+}
+
+cucumberReports{
+    outputDir= file('build/reports/cucumber')
+    buildId= "0"
+    reports=files('reports/example-report.json')
+}
+
+test.finalizedBy('sonarqube')
+
+
+task generateMatrixAPI (type: Copy, dependsOn: ['build','javadoc']){
+
+    mkdir('MatrixRelease/Matrix_v_1.0')
+    mkdir('MatrixRelease/Matrix_v_1.0/reports')
+    mkdir('MatrixRelease/Matrix_v_1.0/docs')
+    mkdir('MatrixRelease/Matrix_v_1.0/libs')
+
+    into 'MatrixRelease/Matrix_v_1.0'
+
+    into('reports'){
+        from 'build/reports'
+    }
+    into('docs'){
+        from 'build/docs'
+    }
+    into('libs'){
+        from 'build/libs'
+    }
+
+}
+
+slack {
+    webhookUrl "https://hooks.slack.com/services/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"
+    username "Gradle"
+    shouldMonitor "build", "test", "publish"
+
+}
+

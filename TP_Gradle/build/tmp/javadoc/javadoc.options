@@ -1,0 +1,9 @@
+-classpath 'C:\\Users\\HP\\Desktop\\OGL\\TP\\TP_Gradle\\build\\classes\\java\\main;C:\\Users\\HP\\Desktop\\OGL\\TP\\TP_Gradle\\build\\resources\\main'
+-d 'C:\\Users\\HP\\Desktop\\OGL\\TP\\TP_Gradle\\build\\docs\\javadoc'
+-doctitle 'TP_Gradle 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'TP_Gradle 1.0-SNAPSHOT API'
+'C:\\Users\\HP\\Desktop\\OGL\\TP\\TP_Gradle\\src\\main\\java\\com\\example\\exception\\NoSquareException.java'
+'C:\\Users\\HP\\Desktop\\OGL\\TP\\TP_Gradle\\src\\main\\java\\com\\example\\model\\Matrix.java'
+'C:\\Users\\HP\\Desktop\\OGL\\TP\\TP_Gradle\\src\\main\\java\\com\\example\\service\\MatrixMathematics.java'
